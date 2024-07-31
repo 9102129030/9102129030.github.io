@@ -51,10 +51,10 @@ Contact: A form to send me messages directly.
 ### Home Page
 ![Homepage](https://github.com/Rahuluf/Rahul.github.io/blob/main/%7B07DF30C0-148D-4D2D-89E7-C32CEB9A1521%7D.png)
 
-### Projects Page
+### About Page
 ![Assembly Hall](https://github.com/Rahuluf/Rahul.github.io/blob/main/%7B70401CAC-3263-495C-B556-C52FF81E1B39%7D.png)
 
-### Skills Page
-![Assembly Hall](https://github.com/Rahuluf/My_Repository/blob/main/HOME%40/img/ass2.jpg)
+### Contact Page
+![Assembly Hall](https://github.com/Rahuluf/Rahul.github.io/blob/main/%7BE7729E94-0371-4ABC-ADE0-AB91F1D9569D%7D.png)
 
 
