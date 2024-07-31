@@ -58,3 +58,14 @@ Contact: A form to send me messages directly.
 ![Assembly Hall](https://github.com/Rahuluf/Rahul.github.io/blob/main/%7BE7729E94-0371-4ABC-ADE0-AB91F1D9569D%7D.png)
 
 
+🛠️ Technologies Used
+Frontend: HTML, CSS, JavaScript, React
+Deployment: Netlify  or GitHub Pages
+
+📧 Contact
+Feel free to reach out to me for any inquiries or collaborations!
+
+Email: rsharma38045@gmail.com
+LinkedIn: https://www.linkedin.com/in/rahul-rana-154060220/
+
+Thank you for visiting my portfolio repository! If you have any questions or feedback, please don't hesitate to reach out.
