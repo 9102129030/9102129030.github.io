@@ -826,7 +826,40 @@ h3.my-profession{
 
 
 
-
+.skill-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.skill {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+    width: 150px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+.skill:hover {
+    transform: scale(1.1) rotate(10deg);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+.skill i {
+    font-size: 48px;
+    color: #333;
+    margin-bottom: 10px;
+    transition: color 0.3s;
+}
+.skill:hover i {
+    color: #ff6347; /* Change icon color on hover */
+}
+.skill h3 {
+    font-size: 18px;
+    color: #333;
+    margin: 0;
+}
 
 
 
