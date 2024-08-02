@@ -863,6 +863,12 @@ h3.my-profession{
 
 
 
+@media(max-width:1420px){
+    .home-img::after,
+    .home-img::before{
+        display: none;
+    }
+}
 
 
 
